@@ -1,6 +1,6 @@
 # Turbo EverDrive PRO Themes
 
-Menu themes for the Turbo EverDrive PRO, styled after every console in the PC Engine family.
+Menu themes for the [Turbo EverDrive PRO](https://krikzz.com/our-products/cartridges/turbo-everdrive-pro.html), styled after every console in the PC Engine family.
 
 ## Install
 

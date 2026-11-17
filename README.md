@@ -166,3 +166,15 @@ Each theme comes in two layouts: full and slim. Additionally, every theme has a 
 **Slim:** [`tduoslim.bgr`](https://github.com/DerekPascarella/TurboEverDrivePROThemes/raw/main/themes/tduoslim.bgr) - **Slim CRT:** [`tduoslim_crt.bgr`](https://github.com/DerekPascarella/TurboEverDrivePROThemes/raw/main/themes/crt/tduoslim_crt.bgr)
 
 <img src="screenshots/tduoslim-file-list.png" width="32%" alt="TurboDuo slim, file list"> <img src="screenshots/tduoslim-file-menu.png" width="32%" alt="TurboDuo slim, file menu"> <img src="screenshots/tduoslim-options.png" width="32%" alt="TurboDuo slim, options">
+
+### Pioneer LaserActive
+
+1993 - Black deck with a grooved lid, gold trim and the LaserActive logo, for the PC Engine pack.
+
+**Full:** [`la.bgr`](https://github.com/DerekPascarella/TurboEverDrivePROThemes/raw/main/themes/la.bgr) - **Full CRT:** [`la_crt.bgr`](https://github.com/DerekPascarella/TurboEverDrivePROThemes/raw/main/themes/crt/la_crt.bgr)
+
+<img src="screenshots/la-file-list.png" width="32%" alt="Pioneer LaserActive full, file list"> <img src="screenshots/la-file-menu.png" width="32%" alt="Pioneer LaserActive full, file menu"> <img src="screenshots/la-options.png" width="32%" alt="Pioneer LaserActive full, options">
+
+**Slim:** [`laslim.bgr`](https://github.com/DerekPascarella/TurboEverDrivePROThemes/raw/main/themes/laslim.bgr) - **Slim CRT:** [`laslim_crt.bgr`](https://github.com/DerekPascarella/TurboEverDrivePROThemes/raw/main/themes/crt/laslim_crt.bgr)
+
+<img src="screenshots/laslim-file-list.png" width="32%" alt="Pioneer LaserActive slim, file list"> <img src="screenshots/laslim-file-menu.png" width="32%" alt="Pioneer LaserActive slim, file menu"> <img src="screenshots/laslim-options.png" width="32%" alt="Pioneer LaserActive slim, options">

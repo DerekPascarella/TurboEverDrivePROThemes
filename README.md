@@ -178,3 +178,27 @@ Each theme comes in two layouts: full and slim. Additionally, every theme has a 
 **Slim:** [`laslim.bgr`](https://github.com/DerekPascarella/TurboEverDrivePROThemes/raw/main/themes/laslim.bgr) - **Slim CRT:** [`laslim_crt.bgr`](https://github.com/DerekPascarella/TurboEverDrivePROThemes/raw/main/themes/crt/laslim_crt.bgr)
 
 <img src="screenshots/laslim-file-list.png" width="32%" alt="Pioneer LaserActive slim, file list"> <img src="screenshots/laslim-file-menu.png" width="32%" alt="Pioneer LaserActive slim, file menu"> <img src="screenshots/laslim-options.png" width="32%" alt="Pioneer LaserActive slim, options">
+
+### Analogue Duo (Black)
+
+2021 - Black edition, with the scalloped lid, smoked CD window and Analogue logo.
+
+**Full:** [`aduo.bgr`](https://github.com/DerekPascarella/TurboEverDrivePROThemes/raw/main/themes/aduo.bgr) - **Full CRT:** [`aduo_crt.bgr`](https://github.com/DerekPascarella/TurboEverDrivePROThemes/raw/main/themes/crt/aduo_crt.bgr)
+
+<img src="screenshots/aduo-file-list.png" width="32%" alt="Analogue Duo (Black) full, file list"> <img src="screenshots/aduo-file-menu.png" width="32%" alt="Analogue Duo (Black) full, file menu"> <img src="screenshots/aduo-options.png" width="32%" alt="Analogue Duo (Black) full, options">
+
+**Slim:** [`aduoslim.bgr`](https://github.com/DerekPascarella/TurboEverDrivePROThemes/raw/main/themes/aduoslim.bgr) - **Slim CRT:** [`aduoslim_crt.bgr`](https://github.com/DerekPascarella/TurboEverDrivePROThemes/raw/main/themes/crt/aduoslim_crt.bgr)
+
+<img src="screenshots/aduoslim-file-list.png" width="32%" alt="Analogue Duo (Black) slim, file list"> <img src="screenshots/aduoslim-file-menu.png" width="32%" alt="Analogue Duo (Black) slim, file menu"> <img src="screenshots/aduoslim-options.png" width="32%" alt="Analogue Duo (Black) slim, options">
+
+### Analogue Duo (White)
+
+2021 - White edition, with the scalloped lid, smoked CD window and Analogue logo.
+
+**Full:** [`aduow.bgr`](https://github.com/DerekPascarella/TurboEverDrivePROThemes/raw/main/themes/aduow.bgr) - **Full CRT:** [`aduow_crt.bgr`](https://github.com/DerekPascarella/TurboEverDrivePROThemes/raw/main/themes/crt/aduow_crt.bgr)
+
+<img src="screenshots/aduow-file-list.png" width="32%" alt="Analogue Duo (White) full, file list"> <img src="screenshots/aduow-file-menu.png" width="32%" alt="Analogue Duo (White) full, file menu"> <img src="screenshots/aduow-options.png" width="32%" alt="Analogue Duo (White) full, options">
+
+**Slim:** [`aduowslim.bgr`](https://github.com/DerekPascarella/TurboEverDrivePROThemes/raw/main/themes/aduowslim.bgr) - **Slim CRT:** [`aduowslim_crt.bgr`](https://github.com/DerekPascarella/TurboEverDrivePROThemes/raw/main/themes/crt/aduowslim_crt.bgr)
+
+<img src="screenshots/aduowslim-file-list.png" width="32%" alt="Analogue Duo (White) slim, file list"> <img src="screenshots/aduowslim-file-menu.png" width="32%" alt="Analogue Duo (White) slim, file menu"> <img src="screenshots/aduowslim-options.png" width="32%" alt="Analogue Duo (White) slim, options">
